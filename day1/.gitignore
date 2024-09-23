@@ -1,0 +1,20 @@
+# Dependencies
+node_modules/
+
+# Compiled output
+dist/
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# Optional: TypeScript cache (for faster builds)
+*.tsbuildinfo
+
+# Optional: Ignore package-lock.json if you prefer dynamic installs
+# package-lock.json
+
+# VSCode specific settings (optional)
+.vscode/
